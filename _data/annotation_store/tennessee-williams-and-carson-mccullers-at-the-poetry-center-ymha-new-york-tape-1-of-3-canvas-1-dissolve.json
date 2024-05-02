@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://benwbrum.github.io/hrc-test/annotations/tennessee-williams-and-carson-mccullers-at-the-poetry-center-ymha-new-york-tape-1-of-3-canvas-1-dissolve.json",
+  "type": "AnnotationPage",
+  "label": "Dissolve",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tennessee-williams-and-carson-mccullers-at-the-poetry-center-ymha-new-york-tape-1-of-3-canvas-1-dissolve-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Here we see a dissolve used to indicate that this is a distance in time, not necessarily an oddity of mental faculty; however, it does seem that because it is foreshadowing a place, that this could be an effect of memory rather than complete foreshadowing. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/hrc-test/tennessee-williams-and-carson-mccullers-at-the-poetry-center-ymha-new-york-tape-1-of-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll113v3/73",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "45.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "tennessee-williams-and-carson-mccullers-at-the-poetry-center-ymha-new-york-tape-1-of-3-canvas-1-dissolve-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We, then, dissolve back to the present. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://benwbrum.github.io/hrc-test/tennessee-williams-and-carson-mccullers-at-the-poetry-center-ymha-new-york-tape-1-of-3/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://norman.hrc.utexas.edu/notDM/objectManifest/p15878coll113v3/73",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "57.0"
+        }
+      }
+    }
+  ]
+}
