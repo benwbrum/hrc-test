@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "HRC Manifest Import" ] },
+    "summary": { "en": [ "Diagnosing problems with HRC manfiest annotation page links" ] },
+    "items": [
+    ]
+}
